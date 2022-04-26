@@ -1,4 +1,4 @@
-## Notes
+# Notes
 
 This website contains all studynotes made by its author.
 
